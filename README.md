@@ -78,4 +78,4 @@ Classe Principal para testar com três objetos de cada classe.
 
 ## Contribuição
 
-Desenvolvido por Diego e Maria Clara.
+Desenvolvido por Diego Cardoso e Maria Clara.
